@@ -1,6 +1,8 @@
 <h1 align="center">Miguel Monteiro</h1>
+ 
 <p align="center"><b>Back-end developer in the making · First year · All in.</b></p>
-<br/>
+---
+ 
 ```python
 miguel = {
   "escola": "Instituto J&F — T.I. | 1º ano",
@@ -36,12 +38,6 @@ miguel = {
 - 🏫 Instituto J&F — T.I. | 1º ano
 - ⚙️ Aprendendo back-end do zero
 - 🗄️ Explorando SQL e banco de dados
----
- 
-### Stats
- 
-<img src="https://github-readme-stats.vercel.app/api?username=Mmonteiro-code&show_icons=true&theme=github_dark&hide_border=true&title_color=1e3a5f&icon_color=1e3a5f&text_color=c9d1d9&bg_color=0d1117" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmonteiro-code&layout=compact&theme=github_dark&hide_border=true&title_color=1e3a5f&text_color=c9d1d9&bg_color=0d1117" width="280"/>
 ---
  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelantonio17072010@gmail.com)
