@@ -1,87 +1,69 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Miguel%20Monteiro&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20em%20formação%20🚀&descAlignY=58&descSize=18&descColor=a8b2d8" />
-
+```
+"Winning isn't everything. It's the only thing."
+```
+ 
+# Miguel Monteiro
+ 
+**Back-end developer in the making. First year. All in.**
+ 
 </div>
-
 ---
-
-<div align="center">
-
-### 👾 Sobre mim
-
-</div>
-
-```java
-public class Miguel {
-    String nome     = "Miguel Monteiro";
-    String escola   = "Instituto J&F — T.I. | 1º ano do Ensino Médio";
-    String foco     = "Back-end";
-    String[] hobbies = {"Jogar videogame", "Praticar esportes", "Banco de dados", "Um pouco de design"};
-
-    String humor()  { return "Sempre pronto pra aprender!"; }
+ 
+```python
+miguel = {
+  "escola": "Instituto J&F — T.I. | 1º ano",
+  "foco":   "Back-end",
+  "stack":  ["Java", "Python", "SQL"],
+  "extras": ["banco de dados", "um pouco de design"],
+  "modo":   "construindo. aprendendo. evoluindo."
 }
 ```
-
+ 
 ---
-
-<div align="center">
-
-### 🛠️ Tecnologias & Ferramentas
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql&theme=dark" height="60" alt="Java, Python, MySQL" />
-
-<br/><br/>
-
-| Linguagem / Tecnologia | Nível |
-|------------------------|-------|
-| ☕ Java | ⭐⭐⭐ Gosto muito |
-| 🐍 Python | ⭐⭐⭐ Gosto muito |
-| 🗄️ SQL / Banco de Dados | ⭐⭐⭐ Gosto muito |
-| 🎨 Design | ⭐⭐ Gosto um pouco |
-
+ 
+### Stack
+ 
+<div align="left">
+[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://www.java.com)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org)
+[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com)
+ 
 </div>
-
+`Java` &nbsp;&nbsp; `Python` &nbsp;&nbsp; `SQL / MySQL`
+ 
 ---
-
-<div align="center">
-
-### 📊 Estatísticas do GitHub
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MiguelMonteiro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMonteiro&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
+ 
+### Interesses
+ 
+| | |
+|---|---|
+| ⚙️ **Back-end** | Onde eu passo a maior parte do tempo |
+| 🗄️ **Banco de Dados** | SQL, modelagem, lógica |
+| 🎨 **Design** | Um pouco — gosto de estética |
+| ☕ **Java** | Primeira linguagem séria |
+| 🐍 **Python** | Simples, poderoso, versátil |
+ 
 ---
-
-<div align="center">
-
-### 🎯 Foco Atual
-
-🏫 Estudando T.I. no **Instituto J&F**
-💡 Aprendendo os fundamentos do **desenvolvimento back-end**
-🗄️ Explorando **bancos de dados relacionais** com SQL
-☕ Desenvolvendo projetos em **Java** e **Python**
-
-</div>
-
+ 
+### Status
+ 
+🏫 &nbsp;Instituto J&F — T.I. | 1º ano  
+⚙️ &nbsp;Aprendendo back-end do zero  
+🗄️ &nbsp;Explorando SQL e banco de dados  
+ 
 ---
-
+ 
+### Stats
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&title_color=1e3a5f&icon_color=1e3a5f&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&title_color=1e3a5f&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+---
+ 
 <div align="center">
-
-### 📫 Me encontre por aqui
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelantonio17072010@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/seuperfil](https://www.instagram.com/__miguelmonteiro?igsh=dmo0dWVya2xybjZ0))
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&animation=fadeIn"/>
-
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:miguelantonio17072010@gmail.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/@__miguelmonteiro-0d1117?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__miguelmonteiro)
+ 
 </div>
