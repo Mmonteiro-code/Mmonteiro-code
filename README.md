@@ -5,8 +5,8 @@
 
 <p>
 <p align="center">
-escola: Instituto J&F — T.I. | 1º ano </br>
-foco:   "Back-end </br>
+school: Instituto J&F — T.I. | 1º ano </br>
+focus:   "Back-end </br>
 stack:  Java, Python, SQL </br>
 </br>
   Winning isn't one of the ways. It's the only way.</br>
@@ -29,19 +29,19 @@ extra: design </br>
 
 | | |
 |:--|:--|
-| ⚙️ **Back-end** | Onde passo a maior parte do tempo |
-| 🗄️ **Banco de Dados** | SQL, modelagem e lógica |
-| ☕ **Java** | Minha linguagem de maior domínio |
-| 🎨 **Design** | iniciando na área |
+| ⚙️ **Back-end** | Where I spend most of my time. |
+| 🗄️ **Banco de Dados** | SQL, modeling and logic |
+| ☕ **Java** | My main language |
+| 🎨 **Design** | starting in the area |
 
 ---
 
 ### Status
 
 <p>
-| 📖 Estudando lógica de programação |</br>
-| 🔨 Construindo um app de manutenção | </br>
-| 🎯 foco em me tornar dev backend | </br>
+| 📖 Studying programming logic |</br>
+| 🔨 Building a maintenance app | </br>
+| 🎯 My focus is on becoming a backend developer. | </br>
 </p>
 ---
 
