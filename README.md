@@ -1,15 +1,19 @@
 <h1 align="center">Miguel Monteiro</h1>
 
-<p align="center"><b>Back-end developer in the making · First year · All in.</b></p>
+<p align="center"><b>Back-end developer in the making · First year</b></p>
 
-```python
-miguel = {
-  "escola": "Instituto J&F — T.I. | 1º ano",
-  "foco":   "Back-end",
-  "stack":  ["Java", "Python", "SQL"],
-  "extras": ["banco de dados", "um pouco de design"],
-}
-```
+
+<p>
+<p align="center">
+escola: Instituto J&F — T.I. | 1º ano </br>
+foco:   "Back-end </br>
+stack:  Java, Python, SQL </br>
+</br>
+  Winning isn't one of the ways. It's the only way.</br>
+</br>
+extra: design </br>
+</p>
+</p>
 
 ---
 
@@ -27,17 +31,18 @@ miguel = {
 |:--|:--|
 | ⚙️ **Back-end** | Onde passo a maior parte do tempo |
 | 🗄️ **Banco de Dados** | SQL, modelagem e lógica |
-| ☕ **Java** | Minha primeira linguagem séria |
-| 🎨 **Design** | Um pouco — gosto de estética |
+| ☕ **Java** | Minha linguagem de maior domínio |
+| 🎨 **Design** | iniciando na área |
 
 ---
 
 ### Status
 
-- 🏫 Instituto J&F — T.I. | 1º ano
-- ⚙️ Aprendendo back-end do zero
-- 🗄️ Explorando SQL e banco de dados
-
+<p>
+| 📖 Estudando lógica de programação |</br>
+| 🔨 Construindo um app de manutenção | </br>
+| 🎯 foco em me tornar dev backend | </br>
+</p>
 ---
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelantonio17072010@gmail.com)
